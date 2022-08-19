@@ -6,4 +6,5 @@
 console.log("A=" + area);
 
 //falta colocar um input na variavel de raio pro usuario fazer a entrada
-// bee não aceitou essa solução ainda
+//bee não aceitou essa solução ainda
+//mas resultado vem correto
